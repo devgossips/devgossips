@@ -17,7 +17,7 @@
 
 Hi, I'm [Sagnik Sahoo](https://devgossips.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🧑‍♂️ . Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
   
 **Talking about Personal Stuffs:**
 
