@@ -16,7 +16,9 @@
 <a href="https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg">
   <img align="left" alt="Sagnik's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+<a href="https://dribbble.com/virtuonic">
+  <img align="left" alt="Sagnik's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
 <br />
 
 Hi, I'm [Sagnik Sahoo](https://devgossips.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Class 10 Student 🧑‍♂️ , ❤️ only coding . Beside's programming, I enjoy eating food and traveling.
@@ -38,6 +40,7 @@ const sagnik = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    traits: ["Dev", "Design"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -71,6 +74,12 @@ const sagnik = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
