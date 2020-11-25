@@ -10,8 +10,12 @@
 <a href="https://github.com/devgossips/">
   <img align="left" alt="Sagnik's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-
+<a href="#">
+  <img align="left" alt="Sagnik's Portfolio & Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefoxbrowser.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg">
+  <img align="left" alt="Sagnik's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br />
 
