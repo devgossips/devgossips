@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Sagnik Sahoo](https://devgossips.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🧑‍♂️ . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Sagnik Sahoo](https://devgossips.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a Class 10 Student 🧑‍♂️ , ❤️ only coding . Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
   
@@ -68,10 +68,12 @@ const sagnik = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++    40 mins         ████████████████████████▓   99.31 % 
+JAVA    40 mins         ████████████████████████▓   99.31 % 
 ```
 <!--END_SECTION:waka-->
 
