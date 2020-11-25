@@ -27,6 +27,34 @@ Hi, I'm [Sagnik Sahoo](https://devgossips.github.io/), a Full Stack Developer �
 - 📫 How to reach me: [sahoosagnik1@gmail.com];
 - 📝[Resume](#)
 
+**A Little about me**
+
+```javascript
+const sagnik = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt", "React", "Gatsby"],
+            css: ["materialize", "vuetify", "bootstrap", "minimalistic"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", , "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase🔥", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
